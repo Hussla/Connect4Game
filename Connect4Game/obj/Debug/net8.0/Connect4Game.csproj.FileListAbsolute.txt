@@ -1,0 +1,14 @@
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/bin/Debug/net8.0/Connect4Game
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/bin/Debug/net8.0/Connect4Game.deps.json
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/bin/Debug/net8.0/Connect4Game.runtimeconfig.json
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/bin/Debug/net8.0/Connect4Game.dll
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/bin/Debug/net8.0/Connect4Game.pdb
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/obj/Debug/net8.0/Connect4Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/obj/Debug/net8.0/Connect4Game.AssemblyInfoInputs.cache
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/obj/Debug/net8.0/Connect4Game.AssemblyInfo.cs
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/obj/Debug/net8.0/Connect4Game.csproj.CoreCompileInputs.cache
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/obj/Debug/net8.0/Connect4Game.dll
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/obj/Debug/net8.0/refint/Connect4Game.dll
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/obj/Debug/net8.0/Connect4Game.pdb
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/obj/Debug/net8.0/Connect4Game.genruntimeconfig.cache
+/Users/husslaos/Documents/University/Programming Projects/Connect4Game/obj/Debug/net8.0/ref/Connect4Game.dll
